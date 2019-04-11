@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:10:5-80:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:12:9-38
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:11:9-38
+activity#com.maxistar.textpad.EditorActivity
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:14:9-65:20
+	android:label
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:16:13-45
+	android:launchMode
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:17:13-43
+	android:configChanges
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:18:13-43
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:15:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:21:27-74
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:24:13-26:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:25:17-71
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:25:25-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:28:13-32:29
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:31:17-89
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:31:27-86
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\.css+data:pathPattern:.*\\.html+data:pathPattern:.*\\.js+data:pathPattern:.*\\.md+data:pathPattern:.*\\.org+data:pathPattern:.*\\.php+data:pathPattern:.*\\.py+data:pathPattern:.*\\.txt+data:scheme:file
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:33:13-48:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:35:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:36:27-75
+data
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:37:17-47
+	android:host
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:39:23-39
+	android:scheme
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:37:23-44
+	android:pathPattern
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:40:23-53
+	android:mimeType
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:38:23-45
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain+data:scheme:file
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:49:13-54:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.SEND
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:57:25-66
+meta-data#android.app.searchable
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:62:13-63:56
+	android:resource
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:63:20-54
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:62:24-61
+activity#com.maxistar.textpad.FileDialog
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:66:9-71:20
+	android:label
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:69:13-43
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:67:13-39
+activity#com.maxistar.textpad.SettingsActivity
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:74:13-54
+	android:configChanges
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:75:13-43
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:73:13-45
+provider#com.maxistar.textpad.SearchSuggestions
+ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:77:9-79:60
+	android:authorities
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:79:13-57
+	android:name
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml:78:13-46
+uses-sdk
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\Desktop\NDoc\TextPad\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\84df2bfcc2836570f014bb283e688aeb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\f6e036c8acc2e861896890d0a69fe5f2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\3dca053126e4c801b8fc276a77af4e4c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\69ce4f1835d2babb8faf4955f6a3a2da\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\05f2ee81ef8a338c55f945fa68fae4e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\7d7686f63e82959adc71cc366973d9be\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\a1a77524afd38a97ea3c4936f7f8de3b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\52db9f6ac191e0a53b5bfff9e35b7450\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\a342ac90c42336d9aab5dbd40ec23b53\AndroidManifest.xml:27:13-51
